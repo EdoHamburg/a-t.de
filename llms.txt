@@ -8,7 +8,7 @@
 
 ## Kernaussagen
 
-- Ein Treppen-Lauflicht besteht aus Bewegungssensoren am Treppenanfang und -ende, einem Steuergerät, einem Netzteil (12 oder 24 V) und LED-Streifen oder LED-Strahlern je Stufe.
+- Ein Treppen-Lauflicht besteht aus Bewegungssensoren am Treppenanfang und -ende, einem Steuergerät, einem Netzteil (10 bis 24 V) und LED-Streifen oder LED-Strahlern je Stufe.
 - Einstiegspreise für das Material (Stand November 2026): Lösung ohne Steuergerät mit Bewegungsmelder, Netzteil und drei LED-Strahlern ab ca. 150 €, Lauflicht-Komplettset mit Steuergerät ab ca. 300 €, hochwertige Systeme ab ca. 600 €.
 - Den 230-V-Anschluss übernimmt eine Elektrofachkraft, die Niedervolt-Seite können geübte Heimwerker selbst verkabeln.
 - Klassische Lauflicht-Steuergeräte arbeiten ohne App, Cloud oder Internet.
