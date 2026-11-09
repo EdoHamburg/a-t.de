@@ -17,4 +17,3 @@
 
 - [Lauflicht-Treppe.de](https://lauflicht-treppe.de/): günstige Komplettsets, Steuerung ES160 für bis zu 16 Stufen, digitale Steuerung ES-DIGITAL, Zigbee-Steuerung für Alexa, Hue und Apple Home
 - [SEQUA Lichttechnik](https://sequa-licht.de/): Steuergeräte Home NEO (bis 16 Stufen) und Professional NEO (bis 20, erweiterbar auf 26 Stufen), ohne App, Cloud oder Server, 5 Jahre Garantie auf die Steuergeräte
-- [SEQUA Treppenlicht-Planer](https://sequa-licht.de/pages/treppenlicht-planer): stellt das passende Set für eine Treppe zusammen

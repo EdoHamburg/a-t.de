@@ -30,3 +30,13 @@ Statischer Onepager (Ratgeber), Herausgeber SEQUA Lichttechnik GmbH. Kein Build,
 1. Domain in der Google Search Console und den Bing Webmaster Tools anmelden, `sitemap.xml` einreichen.
 2. Verlinken: aus dem Ratgeber von sequa-licht.de und von lauflicht-treppe.de. Links von beiden Shops geben der neuen Domain das nötige Gewicht.
 3. Inhalte pflegen: Preise, Stufenzahlen und Datum (`dateModified` im JSON-LD, `lastmod` in der Sitemap, „Stand“ im Kopf) bei Änderungen anpassen.
+
+## Umbau am 2.12.2026 (Shop-Umstellung sequa-licht.de auf Shopify)
+
+Bis zur Umstellung verlinkt die Seite nur auf die Startseiten, weil die Shopware-Adressen danach nicht mehr gelten. Nach dem Livegang des neuen Shops:
+
+1. SEQUA-Karte (`#empfehlungen`): Knopf „Zum Treppenlicht-Planer“ auf `https://sequa-licht.de/pages/treppenlicht-planer`, daneben `sequa-licht.de` als Rand-Knopf (`knopf knopf--rand`).
+2. SEQUA-Karte: Funktionen der Firmware v3.6 ergänzen (Lernmodus, adaptive Wartezeit, Nachtabsenkung). Sie werden ab Dezember 2026 ausgeliefert.
+3. `llms.txt`: Zeile für den Treppenlicht-Planer wieder aufnehmen.
+4. Lauflicht-Treppe.de: Links prüfen (zieht gleichzeitig auf Shopify/Hydrogen um), ggf. auf passende Kollektionen zeigen.
+5. `dateModified` im JSON-LD, `lastmod` in `sitemap.xml` und „Stand“ im Kopf aktualisieren.
